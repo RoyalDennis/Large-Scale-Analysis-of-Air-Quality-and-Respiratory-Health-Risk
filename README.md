@@ -1,10 +1,10 @@
 # Large-Scale-Analysis-of-Air-Quality-and-Respiratory-Health-Risk
-This project examines how air pollutants(PM2.5, PM10, NO2, CO, O3) affect respiratory health outcomes using large scale data to uncover key risk factors and support data driven public health improvements.
+This project examines how air pollutants (PM2.5, PM10, NO2, CO, O3, SO2) affect respiratory health outcomes, using large-scale data to uncover key risk factors and support data-driven public health improvements.
 Large-Scale Analysis of Air Quality and Respiratory Health Risk
 
 Overview
 
-This project analyzes the relationship between air quality indicators (PM2.5, PM10, NO₂, SO₂, CO, and O₃) and respiratory health outcomes (asthma, COPD, and lung infections) using large-scale environmental datasets. The goal is to understand how pollution levels affect respiratory health risks across different regions and time periods and to support data-driven public health decisions for improving air quality.
+This project analyzes the relationship between air quality indicators (PM2.5, PM10, NO₂, SO₂, CO, and O₃) and respiratory health outcomes (asthma, COPD, and lung infections) using large-scale environmental datasets. The goal is to understand how pollution levels affect respiratory health risks across different regions and time periods, and to support data-driven public health decisions to improve air quality.
 
 Objectives
 
